@@ -26,4 +26,4 @@ Fast, modular, and grounded in real-world application.
 ---
 
 **License:** MIT  
-**Maintainer:** [@askiadelarge](https://github.com/askiadelarge)
+**Maintainer:** [@askiadelarge](https://github.com/askia1)
